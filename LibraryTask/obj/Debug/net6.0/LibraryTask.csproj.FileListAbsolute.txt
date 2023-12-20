@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Code-Academy\LibraryTask\LibraryTask\bin\Debug\net6.0\LibraryTask.exe
+C:\Users\User\Desktop\Code-Academy\LibraryTask\LibraryTask\bin\Debug\net6.0\LibraryTask.deps.json
+C:\Users\User\Desktop\Code-Academy\LibraryTask\LibraryTask\bin\Debug\net6.0\LibraryTask.runtimeconfig.json
+C:\Users\User\Desktop\Code-Academy\LibraryTask\LibraryTask\bin\Debug\net6.0\LibraryTask.dll
+C:\Users\User\Desktop\Code-Academy\LibraryTask\LibraryTask\bin\Debug\net6.0\LibraryTask.pdb
+C:\Users\User\Desktop\Code-Academy\LibraryTask\LibraryTask\obj\Debug\net6.0\LibraryTask.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Code-Academy\LibraryTask\LibraryTask\obj\Debug\net6.0\LibraryTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Code-Academy\LibraryTask\LibraryTask\obj\Debug\net6.0\LibraryTask.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Code-Academy\LibraryTask\LibraryTask\obj\Debug\net6.0\LibraryTask.AssemblyInfo.cs
+C:\Users\User\Desktop\Code-Academy\LibraryTask\LibraryTask\obj\Debug\net6.0\LibraryTask.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Code-Academy\LibraryTask\LibraryTask\obj\Debug\net6.0\LibraryTask.dll
+C:\Users\User\Desktop\Code-Academy\LibraryTask\LibraryTask\obj\Debug\net6.0\refint\LibraryTask.dll
+C:\Users\User\Desktop\Code-Academy\LibraryTask\LibraryTask\obj\Debug\net6.0\LibraryTask.pdb
+C:\Users\User\Desktop\Code-Academy\LibraryTask\LibraryTask\obj\Debug\net6.0\LibraryTask.genruntimeconfig.cache
+C:\Users\User\Desktop\Code-Academy\LibraryTask\LibraryTask\obj\Debug\net6.0\ref\LibraryTask.dll
